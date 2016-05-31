@@ -1,0 +1,59 @@
+
+
+html{
+    background: url(background5.jpg) ; 
+    font: normal Georgia, serif;
+  }
+  
+header { 
+  margin: 0.1% 0.5%;
+}
+
+h1 {
+  font: normal 300% Georgia, serif;
+}
+  h3 {
+    font: normal 200% Georgia, sans-serif;
+  }
+  
+  img { 
+    width: 15%;
+    margin: 0.5%;
+    box-shadow: 0 0 20px 0px gray;
+  }
+  
+  a {
+    color: black;
+    text-decoration: none;
+    font: normal 150% Georgia, serif;
+  }
+
+a:hover {
+  color: darkred;
+}
+
+section {
+background-color: white;
+width: 20%;
+border-style: ridge;
+margin: 0.1% 0.5%;
+}
+
+#blog {
+  width: 40% ;
+  min-width: 300px;
+  background-color: lavender;
+  border-style: solid ;
+  border-color: white ;
+  box-shadow: 0 0 20px 0px ;
+  display: inline-block;
+}
+
+#blah {
+  display: inline-block;
+  margin-left: 50px;
+}
+
+.crap {
+  width: 100%;
+}
